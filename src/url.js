@@ -1,0 +1,1 @@
+const url = "https://blue-surf-860011.us-east-1.aws.cloud.dgraph.io/graphql"
